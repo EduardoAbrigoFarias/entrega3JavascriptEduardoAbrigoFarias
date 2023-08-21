@@ -1,0 +1,51 @@
+.divcontainer{
+    width:400px;
+    height: 200px;
+    font-size: 20px;
+    border: 2px solid #111112;
+}
+
+.divpublicaciones{
+    width:400px;
+    height: 320px;
+    font-size: 20px;
+    border: 2px solid #111112;
+    color: white;
+    font-weight: bold;
+    margin-left: 10px;
+}
+
+.imageclass{
+    width: 100px;
+    height: 100px;
+    background-image:url('../img/estrellita.jpg');
+    font-weight: bold;
+    font-size: 20px;
+    color: white;
+    border: 5px solid #005BBB;
+}
+
+.imageblog{
+    width: 200px;
+    height: 150px;
+    font-weight: bold;
+    font-size: 20px;
+    color: white;
+    border: 5px solid #9c6bce;
+    margin-left: 10px;
+}
+
+.contenedorimg{
+    height: 1000px;
+    margin-top: 10px;
+    margin-bottom: 100px;
+}
+
+.btnfondo{
+   font-weight: bold; 
+   height: 50px;
+}
+
+body {
+    background-color: #7a7ecd;
+}
